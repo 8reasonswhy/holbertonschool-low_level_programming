@@ -9,6 +9,6 @@
  * assigning the value 98 to the memory location it points to.
  */
 void reset_to_98(int *n)
-{
-    *n = 98;
+{	
+	*n = 98;
 }
